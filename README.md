@@ -89,5 +89,5 @@ Can we accurately predict medical insurance costs using the available variables?
 feature/data-cleaning
 feature/eda
 feature/feature-engineering
-feature/regression-model
 feature/statistical-analysis
+feature/regression-model
